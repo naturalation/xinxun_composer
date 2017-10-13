@@ -14,7 +14,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "XinXun\\Aliyun\\Sts\\": "aliyun-php-sdk-sts/",
+            "XinXun\\Aliyun\\Sts\\": "aliyun-php-sdk-sts/"
         }
     },
     "minimum-stability":"dev",
