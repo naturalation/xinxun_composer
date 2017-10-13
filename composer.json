@@ -1,5 +1,5 @@
 {
-    "name": "xinxun/composer-sdks",
+    "name": "xinxun/php-sdks",
     "type": "library",
     "description": "阿里云SDK集合整理",
     "homepage": "https://github.com/naturalation/xinxun_composer.git",
