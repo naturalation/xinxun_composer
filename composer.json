@@ -1,7 +1,7 @@
 {
-    "name": "xinxun/php-third-party",
+    "name": "xinxun/third-party",
     "type": "library",
-    "description": "阿里云SDK集合整理",
+    "description": "第三方合集",
     "homepage": "https://github.com/naturalation/xinxun_composer.git",
     "license": "MIT",
     "authors": [
